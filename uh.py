@@ -5,3 +5,5 @@ print(X)
 
 #added value of Y
 Y = 20
+
+z = 30
